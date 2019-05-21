@@ -182,3 +182,4 @@ bindsym Mod1+Shift+Tab workspace prev
 client.focused #0d0d0d #0d0d0d #cccccc #d9d9d9 #d9d9d9 
 
 exec "setxkbmap -model abnt2 -layout br -variant abnt2"
+exec "xinput set-prop 10 317 -1"
